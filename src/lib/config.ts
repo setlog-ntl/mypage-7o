@@ -90,7 +90,7 @@ export const siteConfig = {
   parallaxEnabled: true,
   fontFamily: 'Pretendard',
   galleryColumns: '3',
-  designPreset: 'warm-earth',
+  designPreset: 'midnight',
   gaId: process.env.NEXT_PUBLIC_GA_ID || null,
 };
 
